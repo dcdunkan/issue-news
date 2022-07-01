@@ -23,4 +23,4 @@ news({
 ```
 
 You can deploy it on [Deno Deploy](https://deno.com/deploy). Here's a example
-playground:
+playground: https://dash.deno.com/playground/example-issue-news
